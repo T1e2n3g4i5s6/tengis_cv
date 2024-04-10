@@ -1,0 +1,34 @@
+[
+    {
+        "name":"HTML",
+        "level":"Advanced"
+    },
+    {
+        "name":"React JS",
+        "level":"Intermediate"
+    },
+    {
+        "name":"CSS",
+        "level":"Advanced"
+    },
+    {
+        "name":"Next JS",
+        "level":"Intermediate"
+    },
+    {
+        "name":"JavaScript",
+        "level":"Intermediate"
+    },
+    {
+        "name":"React Native",
+        "level":"Intermediate"
+    },
+    {
+        "name":"Tailwind",
+        "level":"Advanced"
+    },
+    {
+        "name":"Expo",
+        "level":"Intermediate"
+    }
+]

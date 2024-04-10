@@ -1,0 +1,34 @@
+[
+    {
+        "name":"Firebase",
+        "level":"Intermediate"
+    },
+    {
+        "name":"AWS",
+        "level":"Intermediate"
+    },
+    {
+        "name":"Node JS",
+        "level":"Intermediate"
+    },
+    {
+        "name":"Mongoose",
+        "level":"Intermediate"
+    },
+    {
+        "name":"Express JS",
+        "level":"Intermediate"
+    },
+    {
+        "name":"MongoDB",
+        "level":"Intermediate"
+    },
+    {
+        "name":"Python",
+        "level":"Intermediate"
+    },
+    {
+        "name":"Mysql",
+        "level":"Intermediate"
+    }
+]
