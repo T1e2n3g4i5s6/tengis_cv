@@ -12,10 +12,6 @@
         "level":"Intermediate"
     },
     {
-        "name":"Mongoose",
-        "level":"Intermediate"
-    },
-    {
         "name":"Express JS",
         "level":"Intermediate"
     },
@@ -29,6 +25,10 @@
     },
     {
         "name":"Mysql",
+        "level":"Intermediate"
+    },
+    {
+        "name":"Php",
         "level":"Intermediate"
     }
 ]
